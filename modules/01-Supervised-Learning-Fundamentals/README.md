@@ -79,6 +79,21 @@ Algunas de las métricas más utilizadas son:
 
 - **Error Cuadrático Medio (MSE):** mide el promedio de los errores al cuadrado entre los valores reales y los valores predichos. Un valor menor indica un mejor desempeño del modelo.
 
+---
+
+## Implementación práctica: Regresión con Diabetes Dataset
+
+Para aplicar los conceptos de regresión supervisada se utiliza el conjunto de datos **Diabetes** disponible en Scikit-learn.
+
+En este ejemplo se implementa un modelo de **Regresión Lineal**, donde:
+
+- Las variables de entrada (**X**) corresponden a las características clínicas de los pacientes.
+- La variable objetivo (**y**) representa la progresión de la enfermedad.
+
+El modelo aprende la relación entre las características de los pacientes y la progresión de la enfermedad para realizar predicciones sobre nuevos datos.
+
+📓 [Regresión con Diabetes Dataset](../../notebooks/01_regression_diabetes.ipynb)
+
 
 ### Clasificación
 
