@@ -361,6 +361,35 @@ Esta información ayuda a elegir algoritmos adecuados y mejorar el proceso de mo
 
 ---
 
+## Ejemplos prácticos de aprendizaje supervisado
+
+### 📈 Regresión: Predicción de ventas a partir de publicidad
+
+En este ejemplo se aplica un modelo de regresión para predecir ventas utilizando información sobre inversión en publicidad.
+
+Variables utilizadas:
+
+- TV.
+- Radio.
+- Newspaper.
+
+El objetivo es aprender la relación entre la inversión publicitaria y las ventas esperadas.
+
+📓 [Predicción de ventas con regresión](../../notebooks/01_sales_prediction_regression.ipynb)
+
+
+---
+
+### 🏥 Clasificación: Predicción de diabetes
+
+En este ejemplo se utiliza un modelo de clasificación para predecir si un paciente presenta diabetes utilizando sus características clínicas.
+
+El modelo aprende patrones a partir de datos históricos de pacientes y clasifica nuevos casos.
+
+📓 [Predicción de diabetes con clasificación](../../notebooks/01_diabetes_classification.ipynb)
+
+---
+
 # Conclusión
 
 El aprendizaje supervisado es uno de los pilares fundamentales del Machine Learning, ya que permite construir modelos capaces de aprender a partir de datos etiquetados y realizar predicciones sobre nuevos casos.
