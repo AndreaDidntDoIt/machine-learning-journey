@@ -130,7 +130,7 @@ El modelo utilizado es **Regresión Logística**, un algoritmo de clasificación
 
 📓 **Notebook relacionado:**
 
-[Clasificación de flores Iris con Regresión Logística](../../notebooks/02_classification_iris.ipynb)
+[Clasificación de flores Iris con Regresión Logística](../../notebooks/01_classification_iris.ipynb)
 
 
 ## Conceptos y técnicas clave
